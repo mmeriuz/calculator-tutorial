@@ -1,0 +1,12 @@
+{
+    "name": "iphone_calculator_project",
+    "version": "1.0.0",
+    "description": "iPhone Calculator Project",
+    "scripts": {
+      "start": "serve"
+    },
+    "dependencies": {
+      "serve": "^10.0.1"
+    },
+    "author": "Stoica Marius"
+  }
